@@ -6,7 +6,7 @@ featuredImage: https://ucarecdn.com/813e5d22-fb50-43a3-88c2-de5a2132f823/-/previ
 subtitle: SERVING THE GREATER NORTHWEST INDIANA AREA
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: Hand Man Services of Northwest Indiana
 ---
 Hand Man Services provides property owners with repairs, upgrades and maintenance you can trust. From painting to door installations we offer competitive, affordable pricing across a variety of services. We also offer junk removal and a moving assistance as well. Call us now and we will walk you through a clear and easy step-by-step estimate. We schedule work around your schedule for your convenience. Call us today!
 
