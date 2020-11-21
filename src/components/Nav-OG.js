@@ -109,8 +109,17 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
+            <NavLink to="/default/">Default</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
+          <button
+            className="Button-blank Nav--MenuButton"
+            onClick={this.handleMenuToggle}
+            tabIndex={0}
+            aria-label="Navigation"
+          >
+            {active ? <X /> : <Menu />}
+          </button>
         </div>
       </nav>
     )
