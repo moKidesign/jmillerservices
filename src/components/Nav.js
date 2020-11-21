@@ -60,16 +60,6 @@ export class Navigation extends Component {
     return (
       <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
         <div className="Nav--Container container">
-          <Link
-            to="/"
-            onClick={this.handleLinkClick}
-            onKeyDown={this.handleLinkKeyDown}
-            tabIndex={0}
-            aria-label="Navigation"
-            role="button"
-          >
-            <Logo />
-          </Link>
           <div className="Nav--Links">
             <NavLink to="/">Main</NavLink>
           </div>
