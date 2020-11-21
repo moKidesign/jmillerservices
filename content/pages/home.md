@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Hand Man Services
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/813e5d22-fb50-43a3-88c2-de5a2132f823/-/preview/-/enhance/61/
 subtitle: SERVING THE GREATER NORTHWEST INDIANA AREA
 meta:
   description: This is a meta description.
